@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>铁匠</title>
-    <link>http://loki-zhou.github.io/</link>
+    <link>https://loki-zhou.github.io/</link>
     <description>Recent content on 铁匠</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jun 2019 10:12:39 +0800</lastBuildDate>
     
-	<atom:link href="http://loki-zhou.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://loki-zhou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://loki-zhou.github.io/about/</link>
+      <link>https://loki-zhou.github.io/about/</link>
       <pubDate>Thu, 20 Jun 2019 10:12:39 +0800</pubDate>
       
-      <guid>http://loki-zhou.github.io/about/</guid>
+      <guid>https://loki-zhou.github.io/about/</guid>
       <description></description>
     </item>
     
